@@ -1,0 +1,1 @@
+This repository contains the solution for HW1P1 of CMU's Intro to Deep Learning (11-785). In it, a Fully Connected Linear Layer, SGD with Momentum, Batch Norm, Activations, and a few MLPs are implemented. 
